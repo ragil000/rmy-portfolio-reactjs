@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rmy-portfolio-reactjs/static/css/main.d4fa779d.chunk.css",
+    "main.js": "/rmy-portfolio-reactjs/static/js/main.5bb50bb8.chunk.js",
+    "main.js.map": "/rmy-portfolio-reactjs/static/js/main.5bb50bb8.chunk.js.map",
+    "runtime-main.js": "/rmy-portfolio-reactjs/static/js/runtime-main.7afb5e65.js",
+    "runtime-main.js.map": "/rmy-portfolio-reactjs/static/js/runtime-main.7afb5e65.js.map",
+    "static/js/2.b064432a.chunk.js": "/rmy-portfolio-reactjs/static/js/2.b064432a.chunk.js",
+    "static/js/2.b064432a.chunk.js.map": "/rmy-portfolio-reactjs/static/js/2.b064432a.chunk.js.map",
+    "static/js/3.ed32bdaa.chunk.js": "/rmy-portfolio-reactjs/static/js/3.ed32bdaa.chunk.js",
+    "static/js/3.ed32bdaa.chunk.js.map": "/rmy-portfolio-reactjs/static/js/3.ed32bdaa.chunk.js.map",
+    "index.html": "/rmy-portfolio-reactjs/index.html",
+    "static/css/main.d4fa779d.chunk.css.map": "/rmy-portfolio-reactjs/static/css/main.d4fa779d.chunk.css.map",
+    "static/js/2.b064432a.chunk.js.LICENSE.txt": "/rmy-portfolio-reactjs/static/js/2.b064432a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7afb5e65.js",
+    "static/js/2.b064432a.chunk.js",
+    "static/css/main.d4fa779d.chunk.css",
+    "static/js/main.5bb50bb8.chunk.js"
+  ]
+}
