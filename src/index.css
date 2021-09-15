@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
+body,
+a,
+select {
+  font-family: "Quicksand", sans-serif;
+  text-decoration: none;
+  color: #000000;
+}
+
+.app {
+  padding: 20px 100px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar > a {
+  font-size: 1.5em;
+}
+
+p {
+  margin: 0px;
+  font-size: small;
+}
+
+.text-comment {
+  margin-bottom: 10px !important;
+}
+
+select {
+  border: 0px;
+}
+
+.efaGep {
+  color: #ffffff !important;
+}
+
+.text-dark {
+  color: #082032;
+}
+
+.text-white {
+  color: #ffffff !important;
+}
+
+.text-red {
+  color: #f05454;
+}
+
+.text-blue {
+  color: #3db2ff;
+}
+
+.content {
+  height: 175px;
+  width: 505px;
+  margin-top: 150px;
+  background-color: #082032;
+  border-radius: 10px;
+  position: relative;
+  background-size: contain;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  background-repeat: no-repeat;
+  padding: 20px;
+}
+
+.content .desc {
+  z-index: 0;
+  color: white;
+  font-size: 11px;
+}
+
+.footer {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.footer a {
+  margin-right: 33px;
+}
+
+@media only screen and (max-width: 700px) {
+  .app {
+    padding: 20px 10px;
+  }
+  .content {
+    height: auto;
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .footer {
+    flex-direction: column;
+  }
+}
